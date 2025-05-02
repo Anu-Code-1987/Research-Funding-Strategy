@@ -27,7 +27,7 @@ To uncover trends in **funding allocation**, **research outcomes**, and **financ
 
 - `Ontario_Research_Funding_Analysis.twbx` – Tableau dashboard file
 - `Ontario_Research_Funding_Data.xlsx` – Cleaned and structured data used in Tableau
-- `Funding_Insights_Presentation.pdf` – Summary slides outlining key insights and recommendations
+- `Funding_Insights_Presentation.pptx` – Summary slides outlining key insights and recommendations
 
 ---
 
